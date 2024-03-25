@@ -1,5 +1,4 @@
 <DOCTYPE html>
-
 <html>
 <head>
 <title>Alexa Searth</title>
@@ -7,8 +6,9 @@
 <body>
 <h1>Alexa Searth</h1>
 <form>
-<input name= "a" type= "text"/>
+<input name= "a" placeholder="keywords" type= "text"/>
 </input type= "submit">
 </form>
 </body>
 </html>
+
